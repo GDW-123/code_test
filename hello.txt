@@ -20,3 +20,4 @@ hello git
 
 this is a text file;
 this is a changed text file;
+this is a changed text file too;
